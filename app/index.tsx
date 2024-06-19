@@ -16,7 +16,7 @@ export default function Index() {
       <br />
       <HelloWave></HelloWave>
       <br />
-      <Text>Edit app/index.tsx to edit this screen.</Text>
+      <Text>This is Julien's portfolio website</Text>
       <br />
       {/* <IdentityBox userName="Bob"></IdentityBox> */}
     </View>
